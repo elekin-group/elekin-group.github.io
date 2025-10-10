@@ -5,7 +5,9 @@ summary: "Grupo de investigación Elekin de la Universidad del País Vasco (UPV/
 type: landing
 draft: false
 ---
-
+<div style="text-align:center;">
+  <img src="/images/brainImage.webp" alt="Imagen Elekin" width="200">
+</div>
 <div style="text-align:center;">
   <img src="/images/logoElekin.jpeg" alt="Logo Elekin" width="200">
 </div>
