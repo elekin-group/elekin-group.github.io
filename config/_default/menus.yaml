@@ -1,24 +1,32 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# ======================================
+# MENÚ PRINCIPAL - JORNADAS ELEKIN
+# ======================================
 
 main:
-  - name: Tour
-    url: tour
-    weight: 10
-  - name: News
-    url: post
-    weight: 20
-  - name: People
-    url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+  - name: "Inicio"
+    url: "/"
+    weight: 1
+
+  - name: "Jornadas"
+    url: "/jornadas/"
+    weight: 2
+
+  - name: "Investigación"
+    url: "/investigacion/"
+    weight: 3
+
+  - name: "Equipo"
+    url: "/equipo/"
+    weight: 4
+
+  - name: "Proyectos"
+    url: "/proyectos/"
+    weight: 5
+
+  - name: "Publicaciones"
+    url: "/publicaciones/"
+    weight: 6
+
+  - name: "Contacto"
+    url: "/contacto/"
+    weight: 7
