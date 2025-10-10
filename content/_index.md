@@ -1,80 +1,58 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: "Grupo Elekin"
+subtitle: "Energía, Electrónica y Comunicación – UPV/EHU"
+summary: "Grupo de investigación Elekin de la Universidad del País Vasco (UPV/EHU)"
 type: landing
-
-sections:
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+draft: false
 ---
+
+<div style="text-align:center;">
+  <img src="/images/logoElekin.jpeg" alt="Logo Elekin" width="200">
+</div>
+
+## Sobre el grupo
+
+**Elekin** es un grupo de investigación de la **Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU)**, centrado en el desarrollo y aplicación de tecnologías avanzadas en **energía, electrónica y comunicación**.
+
+El grupo trabaja en la integración de sistemas inteligentes, dispositivos electrónicos de potencia, comunicaciones industriales y soluciones sostenibles para la eficiencia energética y la digitalización de procesos.
+
+---
+
+## Líneas de investigación
+
+- Electrónica de potencia y control.
+- Energías renovables y sistemas de almacenamiento.
+- Instrumentación y sensórica aplicada.
+- Comunicaciones industriales y sistemas embebidos.
+- Inteligencia artificial aplicada a sistemas energéticos.
+
+---
+
+## Proyectos recientes
+
+- **SmartGridLab** – Laboratorio de redes inteligentes.
+- **e-MobilityLab** – Infraestructura para movilidad eléctrica y carga inteligente.
+- **AI-Energy** – Aplicación de inteligencia artificial a la optimización energética.
+
+---
+
+## Equipo
+
+El grupo está formado por investigadores e investigadoras de la Escuela de Ingeniería de la UPV/EHU.
+
+- **Responsable:** Prof. [Nombre del/la IP]  
+- **Miembros:** [Nombres, enlaces a perfiles, etc.]
+
+---
+
+## Contacto
+
+📍 Escuela de Ingeniería de Bilbao – UPV/EHU  
+📧 elekin@ehu.eus  
+🌐 [https://www.ehu.eus/es/web/elekin](https://www.ehu.eus/es/web/elekin)
+
+---
+
+<div style="text-align:center;">
+  © 2025 Grupo Elekin – UPV/EHU
+</div>
