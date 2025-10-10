@@ -16,9 +16,9 @@ defaultContentLanguage: "es"
 params:
   description: "Grupo de investigación Elekin – Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU)"
   tagline: "Inteligencia Artificial, Computación Bio-Neuroinspirada y Salud Personalizada"
-  favicon: "images/logoelekin.jpg"
+  favicon: "images/logoelekin.jpeg"
   logo:
-    image: "images/logoelekin.jpg"
+    image: "images/logoelekin.jpeg"
     alt: "Elekin UPV/EHU"
 
   # ============================================================
@@ -79,17 +79,17 @@ params:
   # 🧑‍🔬 Información del grupo
   # ============================================================
   team:
-    - name: "Dra. Elsa Fernández Gómez de Segura"
+    - name: "Dra. Karmele López de Ipiña"
       role: "Investigadora Principal"
-      image: "images/elsa.jpg"
+      image: "images/karmele.jpeg"
       bio: "Especialista en inteligencia artificial y computación bio-neuroinspirada. Profesora e investigadora en la UPV/EHU."
       social:
         - icon: "linkedin"
           icon_pack: "fab"
-          link: "https://linkedin.com/in/elsafernandez"
+          link: "https://www.linkedin.com/in/karmele-lopez-de-ipina"
         - icon: "envelope"
           icon_pack: "fas"
-          link: "mailto:elsa.fernandez@ehu.eus"
+          link: "mailto:karmele.ipina@ehu.eus"
 
     - name: "Dra. Carmen Hernández Gómez"
       role: "Investigadora"
