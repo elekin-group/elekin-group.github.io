@@ -3,10 +3,11 @@
 # ======================================
 
 main:
-  - name: "Inicio"
-    url: "/"
+main:
+  - name: "Tour"
+    url: "/tour/"
     weight: 1
-
+    
   - name: "Jornadas"
     url: "/jornadas/"
     weight: 2
