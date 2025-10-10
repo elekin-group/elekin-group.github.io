@@ -1,6 +1,6 @@
 # [Elekin group](https://github.com/eleking-group)
 
-[![Screenshot](logoelekin.jpg)](https://hugoblox.com/hugo-themes/)
+[![Screenshot](logoelekin.jpg)]
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
