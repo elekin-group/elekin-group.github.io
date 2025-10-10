@@ -1,118 +1,118 @@
-# SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# ============================================================
+# 🌐 CONFIGURACIÓN PRINCIPAL DEL SITIO - ELEKIN (UPV/EHU)
+# Basado en Wowchemy / Research Group Template
+# ============================================================
 
-# Appearance
+# 🧠 Identidad del sitio
+title: "Elekin Research Group – UPV/EHU"
+baseURL: "https://elekin.github.io/"
+theme: "research-group"
+languageCode: "es"
+defaultContentLanguage: "es"
 
-appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+# ============================================================
+# 🏛️ INFORMACIÓN INSTITUCIONAL
+# ============================================================
+params:
+  description: "Grupo de investigación Elekin – Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU)"
+  tagline: "Inteligencia Artificial, Computación Bio-Neuroinspirada y Salud Personalizada"
+  favicon: "images/logoelekin.jpg"
+  logo:
+    image: "images/logoelekin.jpg"
+    alt: "Elekin UPV/EHU"
 
-# SEO
+  # ============================================================
+  # 🎨 Apariencia general
+  # ============================================================
+  appearance:
+    theme_day: "minimal"
+    theme_night: "minimal"
+    font: "Open Sans"
+    primary_color: "#1b365d"      # Azul EHU
+    secondary_color: "#009688"    # Verde Elekin
+    dark_mode: true
 
-marketing:
-  seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
+  # ============================================================
+  # 🧭 Navegación principal
+  # ============================================================
+  main_menu:
+    - name: "Inicio"
+      url: "/"
+      weight: 1
+    - name: "Investigación"
+      url: "/projects"
+      weight: 2
+    - name: "Jornadas 2025"
+      url: "/jornadas2025"
+      weight: 3
+    - name: "Equipo"
+      url: "/team"
+      weight: 4
+    - name: "Publicaciones"
+      url: "/publications"
+      weight: 5
+    - name: "Noticias"
+      url: "/news"
+      weight: 6
+    - name: "Contacto"
+      url: "/contact"
+      weight: 7
 
-# Site header
+  # ============================================================
+  # 📡 Redes sociales
+  # ============================================================
+  social:
+    - icon: "twitter"
+      icon_pack: "fab"
+      link: "https://twitter.com/ElekinEHU"
+    - icon: "linkedin"
+      icon_pack: "fab"
+      link: "https://linkedin.com/company/elekin"
+    - icon: "envelope"
+      icon_pack: "fas"
+      link: "mailto:elekin@ehu.eus"
+    - icon: "globe"
+      icon_pack: "fas"
+      link: "https://elekin.github.io"
 
-header:
-  navbar:
-    enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
+  # ============================================================
+  # 🧑‍🔬 Información del grupo
+  # ============================================================
+  team:
+    - name: "Dra. Elsa Fernández Gómez de Segura"
+      role: "Investigadora Principal"
+      image: "images/elsa.jpg"
+      bio: "Especialista en inteligencia artificial y computación bio-neuroinspirada. Profesora e investigadora en la UPV/EHU."
+      social:
+        - icon: "linkedin"
+          icon_pack: "fab"
+          link: "https://linkedin.com/in/elsafernandez"
+        - icon: "envelope"
+          icon_pack: "fas"
+          link: "mailto:elsa.fernandez@ehu.eus"
 
-# Site footer
+    - name: "Dra. Carmen Hernández Gómez"
+      role: "Investigadora"
+      image: "images/carmen.jpg"
+      bio: "Investigadora en análisis de señal cerebral y neurocomputación aplicada a la salud."
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+  # ============================================================
+  # 🗓️ Próximo evento destacado
+  # ============================================================
+  featured_event:
+    title: "Jornadas de Investigación Elekin 2025"
+    date: "2025-05-15"
+    location: "Facultad de Informática, UPV/EHU – Donostia / San Sebastián"
+    description: "Encuentro anual sobre IA, neurociencia y salud personalizada. Colaboración internacional con Cambridge y Biobank Euskadi."
+    link: "/jornadas2025"
 
-# Localization
+  # ============================================================
+  # ⚙️ Funciones adicionales
+  # ============================================================
+  features:
+    show_news: true
+    show_projects: true
+    show_publications: true
+    show_contact_form: true
+    enable_darkmode_toggle: true
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  decap_cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Citation style
-
-publications:
-  date_format: January 2006
-  citation_style: apa
