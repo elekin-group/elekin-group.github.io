@@ -1,5 +1,10 @@
 ---
-title: Tour
+---
+title: "Tour del Grupo Elekin"
+type: "page"
+layout: "default"
+weight: 1
+---
 date: 2022-10-24
 
 type: landing
@@ -8,7 +13,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: Wellcome to the group Elekin
         content: Take a look at what we're working on...
         align: center
         background:
