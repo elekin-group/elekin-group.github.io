@@ -30,7 +30,7 @@ sections:
           position: center
           color: '#555'
       - title: Stay Connected
-        content: 'Connect with us via email or social media'
+        content: 'We’re just getting started! This site will grow with resources, guides, and showcases of student work. Check out our discord channel.'
         align: right
         background:
           image:
@@ -39,9 +39,14 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us in discord
+          url: https://discord.gg/tUJCjDse
   design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400'
+      slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
