@@ -1,4 +1,5 @@
 
+---
 title: Tour
 date: 2022-10-24
 
@@ -9,38 +10,43 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the Elekin group at the University of the Basque Country (EHU)!
-        content: 'Research Group on Engineering in Social Applications and Bioengineering'
+        content: 'Research Group on Engineering in Social Applications and Bioengineering.'
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: mri.JPG
             filters:
               brightness: 0.7
           position: right
           color: '#666'
       - title: What We Do ☕️
-        content: 'Systems Engineering and Automation, Industrial Organization, Mechanical Engineering or Applied Mathematics and TelecommunicationsResearch & Learning – workshops, tutorials, and collaborative projects'
+        content: 'Systems Engineering and Automation, Industrial Organization, Mechanical Engineering or Applied Mathematics and TelecommunicationsResearch & Learning'
         align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: futbolista.JPG
             filters:
               brightness: 0.7
           position: center
           color: '#555'
       - title: Stay Connected
-        content: 'Connect with us via email or social media'
+        content: 'We’re just getting started! This site will grow with resources, guides, and showcases of student work. Check out our discord channel.'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: Bilbao.JPG
             filters:
               brightness: 0.5
           position: center
           color: '#333'
-  design:
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us in discord
+          url: https://discord.gg/tUJCjDse
+    design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400'
+      slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
