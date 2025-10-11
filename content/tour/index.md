@@ -1,7 +1,7 @@
 ---
 ---
 title: "Tour del Grupo Elekin"
-type: "page"
+type: landing
 layout: "default"
 weight: 1
 ---
@@ -13,7 +13,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Wellcome to the group Elekin
+      - title: Welcome to the group Elekin
         content: Take a look at what we're working on...
         align: center
         background:
