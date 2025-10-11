@@ -1,10 +1,5 @@
----
----
-title: "Tour del Grupo Elekin"
-type: landing
-layout: "default"
-weight: 1
----
+
+title: Tour
 date: 2022-10-24
 
 type: landing
@@ -13,42 +8,37 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the group Elekin
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the Elekin group at the University of the Basque Country (EHU)!
+        content: 'Research Group on Engineering in Social Applications and Bioengineering'
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: headset.JPG
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: What We Do ☕️
+        content: 'Systems Engineering and Automation, Industrial Organization, Mechanical Engineering or Applied Mathematics and TelecommunicationsResearch & Learning – workshops, tutorials, and collaborative projects'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: dinosaur.JPG
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Stay Connected
+        content: 'Connect with us via email or social media'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: room.JPG
             filters:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
+  design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
