@@ -1,4 +1,4 @@
-
+---
 title: Tour
 date: 2022-10-24
 
@@ -20,7 +20,7 @@ sections:
           position: right
           color: '#666'
       - title: What We Do ☕️
-        content: 'Systems Engineering and Automation, Industrial Organization, Mechanical Engineering or Applied Mathematics and TelecommunicationsResearch & Learning – workshops, tutorials, and collaborative projects'
+        content: 'Systems Engineering and Automation, Industrial Organization, Mechanical Engineering or Applied Mathematics and TelecommunicationsResearch & Learning'
         align: left
         background:
           image:
