@@ -1,60 +1,49 @@
----
-title: "Grupo Elekin"
-subtitle: "Energía, Electrónica y Comunicación – UPV/EHU"
-summary: "Grupo de investigación Elekin de la Universidad del País Vasco (UPV/EHU)"
+
+title: Tour
+date: 2022-10-24
+
 type: landing
-draft: false
+
+sections:
+  - block: slider
+    content:
+      slides:
+      - title: 👋 Welcome to the Elekin group at the University of the Basque Country (EHU)!
+        content: 'Research Group on Engineering in Social Applications and Bioengineering'
+        align: center
+        background:
+          image:
+            filename: headset.JPG
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: What We Do ☕️
+        content: 'Systems Engineering and Automation, Industrial Organization, Mechanical Engineering or Applied Mathematics and TelecommunicationsResearch & Learning – workshops, tutorials, and collaborative projects'
+        align: left
+        background:
+          image:
+            filename: dinosaur.JPG
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Stay Connected
+        content: 'Connect with us via email or social media'
+        align: right
+        background:
+          image:
+            filename: room.JPG
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+  design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---
-<div style="text-align:center;">
-  <img src="/images/brainImage.webp" alt="Imagen Elekin" width="200">
-</div>
-<div style="text-align:center;">
-  <img src="/images/logoElekin.jpeg" alt="Logo Elekin" width="200">
-</div>
-
-## Sobre el grupo
-
-**Elekin** es un grupo de investigación de la **Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU)**, centrado en el desarrollo y aplicación de tecnologías avanzadas en **energía, electrónica y comunicación**.
-
-El grupo trabaja en la integración de sistemas inteligentes, dispositivos electrónicos de potencia, comunicaciones industriales y soluciones sostenibles para la eficiencia energética y la digitalización de procesos.
-
----
-
-## Líneas de investigación
-
-- Electrónica de potencia y control.
-- Energías renovables y sistemas de almacenamiento.
-- Instrumentación y sensórica aplicada.
-- Comunicaciones industriales y sistemas embebidos.
-- Inteligencia artificial aplicada a sistemas energéticos.
-
----
-
-## Proyectos recientes
-
-- **SmartGridLab** – Laboratorio de redes inteligentes.
-- **e-MobilityLab** – Infraestructura para movilidad eléctrica y carga inteligente.
-- **AI-Energy** – Aplicación de inteligencia artificial a la optimización energética.
-
----
-
-## Equipo
-
-El grupo está formado por investigadores e investigadoras de la Escuela de Ingeniería de la UPV/EHU.
-
-- **Responsable:** Prof. [Nombre del/la IP]  
-- **Miembros:** [Nombres, enlaces a perfiles, etc.]
-
----
-
-## Contacto
-
-📍 Escuela de Ingeniería de Bilbao – UPV/EHU  
-📧 elekin@ehu.eus  
-🌐 [https://www.ehu.eus/es/web/elekin](https://www.ehu.eus/es/web/elekin)
-
----
-
-<div style="text-align:center;">
-  © 2025 Grupo Elekin – UPV/EHU
-</div>
