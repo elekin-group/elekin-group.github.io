@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the 3D Graphics Laboratory at the University of the Basque Country (EHU)!
-        content: 'This is a creative playground where students can explore, experiment, and build with 3D technologies.'
+      - title: 👋 Welcome to the Elekin group at the University of the Basque Country (EHU)!
+        content: 'Research Group on Engineering in Social Applications and Bioengineering.'
         align: center
         background:
           image:
@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
       - title: What We Do ☕️
-        content: '3D Modeling & Animation – Blender, open-source tools, and artistic workflows Game Engines – Unity, Godot, and interactive experiences 3D Printing & Fabrication – from digital models to physical objects Research & Learning – workshops, tutorials, and collaborative projects'
+        content: 'Systems Engineering and Automation, Industrial Organization, Mechanical Engineering or Applied Mathematics and TelecommunicationsResearch & Learning'
         align: left
         background:
           image:
