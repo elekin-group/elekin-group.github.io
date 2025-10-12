@@ -5,8 +5,8 @@ date: 2025-10-12
 type: landing
 design:
   scroll_snap: true
----
 
+---
 ## 🧩 Proyectos recientes y en curso
 
 ### 2024
@@ -124,3 +124,4 @@ design:
 ### 2008
 - **Habilitación de recursos de voz como elementos accesibles a buscadores**  
   *Arantza Casillas Rubio, Nerea Ezeiza Ramos, Miren Karmele López de Ipiña Peña*
+---
