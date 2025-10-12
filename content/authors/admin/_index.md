@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Karmele López de Ipiña
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Karmele
+last_name: López de Ipiña
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor in the Department of Systems Engineerings and Automatics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of the Basque Country
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Medical Bioengineering, Artificial Intelligence, Speech analysis, Neuroscience.
 
 interests:
   - Artificial Intelligence
