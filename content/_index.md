@@ -12,7 +12,7 @@ sections:
           align: center
           background:
             image:
-              filename: mri.jpg
+              filename: eye.jpg
               filters:
                 brightness: 0.7
             position: right
