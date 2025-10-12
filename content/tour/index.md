@@ -30,7 +30,7 @@ sections:
             color: "#555"
 
         - title: "Stay Connected"
-          content: "We’re just getting started! This site will grow with resources, guides, and showcases of student work. Check out our discord channel."
+          content: "Discover our latest research, events, and collaborations through our social channels and website updates."
           align: right
           background:
             image:
@@ -39,11 +39,7 @@ sections:
                 brightness: 0.5
             position: center
             color: "#333"
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: "Join Us in discord"
-            url: "https://discord.gg/tUJCjDse"
+    
 
     design:
       slide_height: ""
