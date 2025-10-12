@@ -36,8 +36,10 @@ Más información 👉 [Programa y registro](https://elekin.github.io/jornadas20
 
 ## 👩‍🔬 Equipo
 
-- **Dra. Elsa Fernández Gómez de Segura** – Investigadora Principal  
-- **Dra. Carmen Hernández Gómez** – Investigadora  
+- **Dra. Karmele López de Ipiña** – Investigadora Principal  
+- **Dra. Carmen Hernández Gómez** – Investigadora
+- **Dra. Pilar María Calvo Salomón** – Investigadora
+- **Dra. Elsa Fernández Gómez de Segura** – Investigadora 
 - **Colaboradores internacionales:** Universidad de Cambridge, Biobank Euskadi  
 
 [Ver equipo completo →](https://elekin.github.io/team)
