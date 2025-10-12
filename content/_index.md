@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2025-10-12
 
 type: landing
 
@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: mri.JPG
+            filename: mri.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: futbolista.JPG
+            filename: futbolista.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: right
         background:
           image:
-            filename: Bilbao.JPG
+            filename: Bilbao.jpg
             filters:
               brightness: 0.5
           position: center
