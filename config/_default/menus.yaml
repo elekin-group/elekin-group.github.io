@@ -3,8 +3,23 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 ---
-title: "Tour"
-type: "page"
-layout: "tour"
+main:
+  - name: Tour
+    url: tour
+    weight: 10
+  - name: About
+    url: about
+    weight: 20
+  - name: News
+    url: post
+    weight: 30
+  - name: Projects
+    url: projects
+    weight: 40
+  - name: People
+    url: people
+    weight: 50
+  - name: Contact
+    url: contact
+    weight: 60
 ---
-
