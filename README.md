@@ -1,6 +1,6 @@
 # 🧠 [Elekin Research Group – UPV/EHU](https://elekin.github.io)
 
-![![Screenshot](assets/media/icon.jpeg)]
+![Screenshot](assets/media/icon2.png)
 
 El **Grupo de Investigación Elekin** de la **Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU)** trabaja en el desarrollo de tecnologías basadas en **inteligencia artificial, computación bio-neuroinspirada y análisis de datos aplicados a la salud y el rendimiento humano**.
 
