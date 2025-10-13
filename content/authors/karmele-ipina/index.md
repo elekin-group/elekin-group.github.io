@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Karmele López de Ipiña is member of IEEE. Assistant teacher at the University of the Basque Country (UPV/EHU), she studied physics. She is Master in Electronics and Automation and obtained her PhD degree in Computer Science at the UPV/EHU. She is qualified in Architecture. She has extensive experience in both private enterprise and in academia. She worked for private companies (Arthur Andersen, GAMESA) as manager and technical consulting in R & D department of the company Control Vision Computer of GAMESA. Since 1994 she is teaching at the university: the Public University of Navarra (UPNA) and the UPV-EHU. She has more than 15 years in research and has participated in many projects as researcher or manager in areas such as: Pattern Recognition, Intelligent Control, Ambient Intelligence, Speech Processing or Artificial Vision. She has been the Director of Planning and Basque at the UPV/EHU. She has many publications in national and international journals and conferences
