@@ -9,6 +9,8 @@ design:
 
 ## 🧩 Proyectos recientes y en curso
 
+---
+
 ### 2024
 - **Smart non-invasive system for monitoring and rehabilitation of Cognitive Well-being in working environments**  
   *Luis Felipe Callado Hernando, Miren Karmele López de Ipiña Peña*
