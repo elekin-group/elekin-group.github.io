@@ -1,5 +1,4 @@
 <details>
-<summary>🇬🇧 English version</summary>
 
 # ELEKIN: Intelligent Engineering and Bioengineering for the Society of the Future  
 
