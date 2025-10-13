@@ -15,7 +15,7 @@ The paper explores how **goal-scoring moments** act as **high-stress events**, r
 
 This work demonstrates the **interdisciplinary integration of data science, psychology, and sports engineering**, highlighting ELEKIN’s commitment to **AI for social and health impact**.  
 
-> 🔗 [Read the article on Nature’s website](#) *[(https://www.nature.com/articles/s41599-025-05490-8)]*  
+> 🔗 [Read the article on Nature’s website](https://www.nature.com/articles/s41599-025-05490-8)  
 
 ---
 
