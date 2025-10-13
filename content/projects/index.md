@@ -1,5 +1,5 @@
 
-## 🧩 Proyectos recientes y en curso
+## 🧩 Recent and Ongoing projects
 
 ***
 ### 2024
