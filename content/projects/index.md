@@ -1,5 +1,6 @@
 
 ## 🧩 Proyectos recientes y en curso
+
 ***
 ### 2024
 - **Smart non-invasive system for monitoring and rehabilitation of Cognitive Well-being in working environments**  
@@ -90,4 +91,4 @@
 ### 2008
 - **Habilitación de recursos de voz como elementos accesibles a buscadores**  
   *Arantza Casillas Rubio, Nerea Ezeiza Ramos, Miren Karmele López de Ipiña Peña*
----
+
