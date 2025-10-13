@@ -1,5 +1,4 @@
-<details>
-
+---
 # ELEKIN: Intelligent Engineering and Bioengineering for the Society of the Future  
 
 **Area:** Engineering and Architecture (excluding Computer Science)  
