@@ -1,11 +1,4 @@
----
-title: "Proyectos del grupo Elekin"
-subtitle: "Investigación e innovación desde 2008"
-date: 2025-10-12
-type: landing
-design:
-  scroll_snap: true
----
+
 ## 🧩 Proyectos recientes y en curso
 ***
 ### 2024
