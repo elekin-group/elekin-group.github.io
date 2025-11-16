@@ -1,3 +1,5 @@
+![alt text](images/logojornadas.png)
+
 ## ELEKIN Research Days  
 
 
