@@ -10,16 +10,19 @@ main:
   - name: About
     url: about
     weight: 20
-  - name: News
+  - name: Workshop
     url: post
     weight: 30
+  - name: News
+    url: post
+    weight: 40
   - name: Projects
     url: projects
-    weight: 40
+    weight: 50
   - name: People
     url: people
-    weight: 50
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
 ---
