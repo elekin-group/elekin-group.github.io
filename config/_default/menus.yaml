@@ -11,7 +11,7 @@ main:
     url: about
     weight: 20
   - name: Workshop
-    url: post
+    url: workshop
     weight: 30
   - name: News
     url: post
