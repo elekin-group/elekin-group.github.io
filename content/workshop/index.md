@@ -1,4 +1,4 @@
-![alt text](images/logojornadas.png)
+![ELEKIN Research Days 2025](/images/logoJornadas.png)
 
 ## ELEKIN Research Days  
 
