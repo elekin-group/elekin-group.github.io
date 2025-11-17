@@ -1,5 +1,5 @@
-![ELEKIN](https://raw.githubusercontent.com/elekin-group.github.io/content/images/logoJornadasP.png)
-https://raw.githubusercontent.com/Uldur-hub/My-Portfolio/main/assets/cyclistic.jpg
+![ELEKIN](https://github.com/elekin-group/elekin-group.github.io/blob/main/images/logoJornadasP.png)
+
 ## ELEKIN Research Days  
 
 
