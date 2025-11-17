@@ -1,4 +1,4 @@
-![ELEKIN](https://github.com/elekin-group/elekin-group.github.io/blob/main/images/logoJornadasP.png)
+![ELEKIN](images/logoJornadasP.png)
 
 ## ELEKIN Research Days  
 
