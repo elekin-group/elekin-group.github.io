@@ -1,5 +1,5 @@
 ![ELEKIN](/images/logoJornadasP.png)
-<img src="images/logoJornadasP.png">
+
 ## ELEKIN Research Days  
 
 
