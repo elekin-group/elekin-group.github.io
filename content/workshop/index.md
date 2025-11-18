@@ -11,16 +11,16 @@ This annual meeting serves as a platform to showcase the multidisciplinary resea
 
 The event will feature contributions and discussions around four core areas:
 
-Intelligent and bioinspired engineering
+- Intelligent and bioinspired engineering
 Advances in computational intelligence, neuroinspired architectures, autonomous systems, and adaptive control mechanisms.
 
-Smart health and cognitive well-being
+- Smart health and cognitive well-being
 Applications of AI, XR, and biosignal analysis for personalised health, rehabilitation technologies, human–machine interaction, and cognitive performance.
 
-AI and data-driven sustainability
+- AI and data-driven sustainability
 Machine learning for environmental monitoring, digital twins, optimisation of energy systems, and sustainable production processes.
 
-Collaborative robotics and inclusive design
+- Collaborative robotics and inclusive design
 Robotics for industry and society, human–robot collaboration, accessibility-enabling technologies, and user-centred design approaches.
 
 ### Event Format
@@ -40,7 +40,6 @@ The ELEKIN Research Days 2025 will include:
 
 - Master’s and PhD students
 
-- Public and private organisations interested in innovation and applied research
 
 Anyone curious about the future of intelligent engineering and social impact technologies
 
