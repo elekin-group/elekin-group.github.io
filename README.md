@@ -27,10 +27,10 @@ El **Grupo de Investigación Elekin** de la **Universidad del País Vasco / Eusk
 ---
 
 ## 🗓️ Próximo evento
-### Jornadas de Investigación Elekin 2025
+### Jornadas de Investigación Elekin 2025-26
 📍 Donostia / San Sebastián  
-🗓️ **15–17 de mayo de 2025**  
-Más información 👉 [Programa y registro](https://elekin.github.io/jornadas2025)
+🗓️ **29 de diciembre a 29 de enero 2026**  
+Más información 👉 [Registro](https://forms.gle/z4wDBwEwmyK4vFp47)
 
 ---
 
