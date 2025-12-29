@@ -46,5 +46,6 @@ Anyone curious about the future of intelligent engineering and social impact tec
 ### Logistics
 
 📍 Location: University of the Basque Country (UPV/EHU), Donostia
-🗓️ Dates: December 2025
-📝 Full program and registration information will be announced soon.
+🗓️ Dates: 29 December 2025 - 29 January 2026
+📝 Registration: https://forms.gle/z4wDBwEwmyK4vFp47
+ 
